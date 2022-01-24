@@ -2,7 +2,7 @@
 
 ## Overview of Analysis 
 
-The purpose of this analysis is to d3etermine of Oahu is a sustainable place to put a surf and ice cream shop. We want to determine if the weather is suitable all year long to bring in good business.
+The purpose of this analysis is to determine of Oahu is a sustainable place to put a surf and ice cream shop. We want to determine if the weather is suitable all year long to bring in good business.
 
 ## Results 
 
